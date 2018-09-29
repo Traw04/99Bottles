@@ -21,7 +21,7 @@ public class theBeerSong
         }
 
             if (beernumb > 0){
-                System.out.println(beernumber + " " + word + "of beer on the wall");
+                System.out.println(beernumb + " " + word + "of beer on the wall");
             }
             else {
                 System.out.println("no more bottles of beer on the wall");
