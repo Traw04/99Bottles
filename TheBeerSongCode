@@ -1,0 +1,29 @@
+public class theBeerSong
+{
+
+    public static void main (String[] args)
+    {
+        int beernumb =99;
+        String word = "bottles ";
+
+        while (beernumb > 0)
+        {
+            if (beernumber == 1)
+            {
+                word = "bottle";
+            }
+
+            System.out.println(beernumb + " " + word + "of beer on the wall");
+            System.out.println(beernumb + " " + word + "of beer.");
+            System.out.println("Take one down, pass it around.");
+            beernumb = beernumb-1;
+
+        }
+
+            if (beernumb > 0){
+                System.out.println(beernumber + " " + word + "of beer on the wall");
+            }
+            else {
+                System.out.println("no more bottles of beer on the wall");
+            }
+    }
